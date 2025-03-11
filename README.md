@@ -4,6 +4,8 @@ A lightweight face recognition system built using MediaPipe, OpenCV, and Python.
 
 ![How Face Recognition System Works](https://i.postimg.cc/fygT3fXd/fr-mp.jpg)
 
+![How Face Recognition System Works](https://i.postimg.cc/bYKvj3yX/images-fr.png)
+
 ## Features
 
 - **Real-time face detection** using MediaPipe Face Detection
@@ -117,6 +119,7 @@ Face data is stored in a simple JSON file with the following structure:
 - Optimize for better performance on low-end devices
 - Add support for face clustering to handle unknown faces
 - Integration with YOLO for more robust object detection
+
 
 ## License
 
