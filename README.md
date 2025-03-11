@@ -2,7 +2,7 @@
 
 A lightweight face recognition system built using MediaPipe, OpenCV, and Python. This system provides real-time face detection, recognition, and a simple user interface for face registration.
 
-![How Face Recognition System Works](system-diagram.png)
+![How Face Recognition System Works]([system-diagram.png](https://i.postimg.cc/fygT3fXd/fr-mp.jpg))
 
 ## Features
 
